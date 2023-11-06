@@ -2,9 +2,7 @@
 
 My name is Raphael Lima and i'm a Brazilian 🇧🇷 software developer and a Database student at FATEC. I'm passionate about learning and experimenting with new technologies and love to build applications with JavaScript or TypeScript.
 
-I love to work with React, Vue, Node and Laravel. I also have some experience with GraphQL, Node, CodeIgniter, MongoDB, among others. Currently working as an fullstack developer at [Gálata](https://galata.com.br) with Vue, Laravel and MySQL.
-
-[![oraphadev GitHub stats](https://github-readme-stats.vercel.app/api?username=oraphadev&count_private=true&show_icons=true&hide=contribs)](https://github.com/oraphadev)
+I love to work with React, Vue, Node and Laravel. I also have some experience with GraphQL, Node, CodeIgniter, MongoDB, among others. Currently working as an fullstack developer at [Cotabox](https://cotabox.com.br) with Vue, Node and MongoDB.
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
