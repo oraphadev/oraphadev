@@ -1,16 +1,40 @@
-## Hi there 👋
+<!-- horizontal divider (gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-My name is Raphael Lima and i'm a Brazilian 🇧🇷 software developer and a Database student at FATEC. I'm passionate about learning and experimenting with new technologies and love to build applications with JavaScript or TypeScript.
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h1 style="display: inline-block">
+        Hi there 🤘, I'm Raphael Lima
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-I love to work with React, Vue, Node and Laravel. I also have some experience with GraphQL, Node, CodeIgniter, MongoDB, among others. Currently working as an fullstack developer at [Cotabox](https://cotabox.com.br) with Vue, Node and MongoDB.
+<!-- snake -->
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+</div>
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<br />
 
-## 📬 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oraphadev/)
+- 🚀 I’m currently working on [BossaBox](https://www.linkedin.com/company/bossabox)
+- 🏙️ I'm currently living in Bauru, São Paulo
+- 📫 How to reach me: oraphadev@gmail.com
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">
+        Technologies That I Know 👨🏻‍💻
+      </h2>
+    </summary>
+  </ul>
+</div>
+
+<!-- tech stack icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,nestjs,nodejs,php,laravel,docker,aws,git,css,tailwind,bootstrap,figma,github,html,linux,mysql,mongodb,postgres,postman,wordpress,vscode&perline=13" />
+  </a>
+</p>
