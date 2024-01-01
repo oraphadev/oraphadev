@@ -38,3 +38,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nextjs,nuxtjs,nestjs,nodejs,php,laravel,docker,aws,git,css,tailwind,bootstrap,figma,github,html,linux,mysql,mongodb,postgres,postman,wordpress,vscode&perline=13" />
   </a>
 </p>
+
+<!-- horizontal divider (gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
