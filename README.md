@@ -18,7 +18,7 @@
 
 <br />
 
-- 🚀 I’m currently working on [BossaBox](https://www.linkedin.com/company/bossabox)
+- 🚀 I’m currently working on [Grafeno](https://www.linkedin.com/company/grafenodigital)
 - 🏙️ I'm currently living in Bauru, São Paulo
 - 📫 How to reach me: oraphadev@gmail.com
 
